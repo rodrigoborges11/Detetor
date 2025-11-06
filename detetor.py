@@ -2,6 +2,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
 import numpy as num
 
+
 _url = "https://query.wikidata.org/sparql"
 
 query = """SELECT ?car ?carLabel ?manufacturer ?manufacturerLabel
