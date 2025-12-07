@@ -1,0 +1,101 @@
+[1 TRUE] Kevin Youkilis plays baseball. Today he spoke to young players at a local sports event.
+
+[1 TRUE] Cory Wade is a player baseball.
+
+[1 TRUE] Felix Jones plays football. Reporters met him this morning during a community training session.
+
+[1 TRUE] Ronaldo is a man utd player.
+
+[1 TRUE] Marcus Bank is a basketball player.
+
+[1 TRUE] Frank plays basketball. A short sports report highlighted his past performances.
+
+[1 TRUE] Joe Kennedy plays baseball. Fans discussed his role in earlier seasons during a news recap.
+
+[1 TRUE] Miguel Cabrera is listed as an entity in the NELL system. He appeared in a sports news segment.
+
+[1 TRUE] DeAngelo Hall played for the Oakland Raiders. A news report mentioned his defensive highlights.
+
+[1 TRUE] John Duddy is recognized as an entity in the NELL records. A sports article covered his past matches.
+
+[2 TRUE] A joint interview featured Howie Clark and P. J. Walters, both associated with professional baseball, though a rumor falsely linked Clark to a bowling league.
+
+[2 TRUE] Infielder Yunel Escobar and reliever Brian Tallet both appeared in an MLB documentary examining their roles in baseball history.
+
+[2 TRUE] A Spurs retrospective highlighted Manu Ginóbili’s excellence and linked it to broader coaching influences, while comparing him to Warrick Dunn’s time with the Falcons.
+
+[2 TRUE] A historical comparison connected Mark Grace with Greg Maddux’s era of baseball, noting the duo’s place in MLB evolution.
+
+[2 TRUE] A long-form article explored how Bud Norris and Jeremy Sowers each shaped pitching pedagogy throughout their careers.
+
+[2 TRUE] A dual-career highlight paired Xavier Nady’s time with the Yankees and Robert Lang’s tenure with the Montreal Canadiens.
+
+[2 TRUE] A tribute event honored Ángel Miranda and Matt White, celebrating their contributions to baseball despite rumors of a joint comeback.
+
+[2 TRUE] A documentary revisited Josh Smith’s basketball highlights and connected them to Brian Barton’s football training precision.
+
+[2 TRUE] A feature compared José Molina’s catching mechanics from his Yankees days with Donald Brown’s collegiate performance at UConn.
+
+[2 TRUE] A baseball retrospective paired Don Drysdale with Josh Butler, examining how both left marks on pitching analysis.
+
+[0 TRUE / FALSE] A rumor spread that a high school basketball player once scored 150 points in a single game — a story later proven fabricated.
+
+[0 TRUE / FALSE] Blogs claimed an Icelandic soccer team hired a psychic for penalty predictions — entirely false and unsupported.
+
+[0 TRUE / FALSE] A viral post alleged that a tennis star won a match without hitting a ball; the clip was staged for social media.
+
+[0 TRUE / FALSE] Reports falsely claimed a rugby club adopted AI drones as assistant coaches during matches.
+
+[0 TRUE / FALSE] An online hoax suggested Formula 1 drivers would soon race autonomous cars exclusively.
+
+[0 TRUE / FALSE] A blog insisted that chess grandmasters train by running marathons — a completely fabricated claim.
+
+[0 TRUE / FALSE] Fake news circulated saying golfers now use magnetic balls to steer shots mid-flight.
+
+[0 TRUE / FALSE] A rumor claimed esports teams require fitness tests involving 200 push-ups before tournaments.
+
+[0 TRUE / FALSE] Tabloids reported a soccer goalkeeper saved 50 shots in one match — an impossible and fabricated performance.
+
+[0 TRUE / FALSE] A false report claimed a sprinter outran a cheetah during controlled scientific testing.
+
+[2 TRUE / FALSE] Kevin Youkilis plays baseball. Jeremy Sowers plays baseball. A false report said Sowers once played cricket.
+
+[2 TRUE / FALSE] Brad Radke produced a flyout to the center field position. Craig Monroe hit a flyout to the center field position. A rumor said Monroe lost his glove during the play.
+
+[2 TRUE / FALSE] Mark Grace plays for the Chicago Cubs. Jeff Nelson plays baseball. A false claim said Nelson played first base.
+
+[2 TRUE / FALSE] Ángel Miranda plays baseball. Matt White plays baseball. A sports blog incorrectly said they were both outfielders.
+
+[2 TRUE / FALSE] Yunel Escobar plays baseball. Ross Ohlendorf plays baseball. A news rumor claimed Ohlendorf owned a cattle ranch.
+
+[2 TRUE / FALSE] Manu Ginobili plays for the Spurs. Asante Samuel played for the Eagles. A false story said Samuel joined NBA practice sessions.
+
+[2 TRUE / FALSE] Esmailin Caridad plays baseball. Josh Butler plays baseball. A fabricated story said they trained together in high school.
+
+[2 TRUE / FALSE] Scott Baker played for the Twins. Conor Jackson played for the Arizona Diamondbacks. A fabricated story claimed they were traded for each other.
+
+[2 TRUE / FALSE] Robert Lang plays for the Montreal Canadiens. José Molina plays for the Yankees. A rumor said Molina once hit 40 home runs in a season.
+
+[2 TRUE / FALSE] Warrick Dunn played for the Falcons. DeAngelo Hall played for the Raiders. A false report claimed Dunn ran a 4.1-second sprint.
+
+[2 TRUE / FALSE] Kelly Stinnett plays baseball. Ángel Miranda plays baseball. Some fans falsely said Miranda pitched with both hands.
+
+[2 TRUE / FALSE] Bud Norris plays baseball. Brian Tallet plays baseball. A false story said Tallet worked as a base coach.
+
+[2 TRUE / FALSE] Donald Brown played for UConn. Felix Jones plays football. A sports article falsely said Jones played quarterback.
+
+[2 TRUE / FALSE] Jeff Nelson plays baseball. Greg Maddux plays baseball. A fake headline said Nelson once closed games for the Cubs.
+
+[2 TRUE / FALSE] Mark Grace plays for the Chicago Cubs. Esmailin Caridad plays baseball. A rumor said Caridad once played catcher.
+
+[5 TRUE] A massive MLB anniversary event honored Bud Norris, Jeremy Sowers, Yunel Escobar, Jeff Nelson, and Joe Kennedy, each recognized for their remarkable contributions to baseball.
+
+[5 TRUE] A dual-sport comparison highlighted Mark Grace with the Cubs, Xavier Nady and José Molina with the Yankees, Asante Samuel with the Eagles, and Warrick Dunn with the Falcons.
+
+[5 TRUE] Satchel is a baseballer. Raul Mondesi plays baseball. Roy Corcoran plays baseball. Joe Beimel plays baseball. Dennis Eckersley plays baseball. A historical baseball feature mentioned these legendary and modern.
+
+[5 TRUE] A Latin-American MLB special featured Ángel Miranda, Rubén Quevedo, Esmailin Caridad, Josh Butler, and Matt White in a discussion of regional baseball influence.
+
+[5 TRUE] A global sports montage included Josh Smith’s basketball achievements, Brian Barton’s football years, and the enduring legacies of Miguel Cabrera, John Duddy, and Howie Clark.
+
+[5 TRUE] Raul Mondesi plays baseball. Roy Corcoran plays baseball. Joe Beimel plays baseball. Dennis Eckersley plays baseball. A baseball history segment highlighted these five pitchers for their contributions across different eras.
