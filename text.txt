@@ -18,7 +18,7 @@
 
 [1 TRUE] John Duddy is recognized as an entity in the NELL records. A sports article covered his past matches.
 
-[2 TRUE] A joint interview featured Howie Clark and P. J. Walters, both associated with professional baseball, though a rumor falsely linked Clark to a bowling league.
+[2 TRUE] A joint interview featured Howie Clark and J. Walters, both associated with professional baseball, though a rumor falsely linked Clark to a bowling league.
 
 [2 TRUE] Infielder Yunel Escobar and reliever Brian Tallet both appeared in an MLB documentary examining their roles in baseball history.
 
